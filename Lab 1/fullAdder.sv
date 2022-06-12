@@ -1,9 +1,4 @@
-//Ismail Memon
-//4/7/22
-//EE 469
-//Lab 1 Task 3
-
-//This module was copied from the course website when setting up the initial project.
+//Attribution: This module was contributed by the UW Electrical Engineering faculty.
 
 /* A 1-bit adder with carry-in and carry-out.
  * 
