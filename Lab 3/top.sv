@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 /* top is a structurally made toplevel module. It consists of 3 instantiations, as well as the signals that link them. 
 ** It is almost totally self-contained, with no outputs and two system inputs: clk and rst. clk represents the clock 
 ** the system runs on, with one instruction being read and executed every cycle. rst is the system reset and should 
