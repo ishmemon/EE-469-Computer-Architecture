@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 /* dmem is a more traditional, albeit very uninteresting, random access 64 word x 32 bit per word memory.
 ** This module is also written in RTL, and likely strongly resembles your own register file except for a 
 ** few minor differences. The first is that there is only a single read port, compared to the register 
