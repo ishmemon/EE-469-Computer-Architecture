@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 /* imem is the read only, 64 word x 32 bit per word instruction memory for our processor. 
 ** Its module is written in RTL, and it strongly resembles a ROM (read only memory) or LUT 
 ** (look up table). This memory has no clock, and cannot be written to, but rather it 
