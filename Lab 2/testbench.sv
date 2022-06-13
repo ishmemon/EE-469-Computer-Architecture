@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 /* testbench is a simulation module which simply instantiates the processor system and runs 50 cycles 
 ** of instructions before terminating. At termination, specific register file values are checked to
 ** verify the processors’ ability to execute the implemented instructions.
